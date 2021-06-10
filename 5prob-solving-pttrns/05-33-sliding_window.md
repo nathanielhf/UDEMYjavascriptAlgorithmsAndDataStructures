@@ -2,7 +2,7 @@
 
 - involves creating a **window** which can either be an array or number from one position to another
 - depending on a certain condition, the window either increases or closes (and a new window is created)
-- looking for a substring of data in an array/string
+- useful for string or array, looking for subset of that data that is *continuous*
 
 Small Example
 - take a string `hellothere` and find longest sequence of characters that don't repeat (ie unique characters)
